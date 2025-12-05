@@ -1,0 +1,7 @@
+{
+  "name": "Chiseled",
+  "description": "AI-powered facial hair grooming assistant that analyzes your face shape and beard style.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
